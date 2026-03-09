@@ -1,5 +1,5 @@
 # QQQ(나스닥 100) 및 SPY(S&P 500) ETF 주가 데이터 수집 및 이동평균선 시각화
-# 설치 필요: install.packages("quantmod")
+# 설치 필요: install.packages("quantmod") 패키지
 library(quantmod)
 
 
