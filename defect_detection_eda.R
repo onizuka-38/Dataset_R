@@ -1,4 +1,4 @@
-# 제조 공정 불량(Defect) 데이터 세트 상관관계 분석 및 탐색적 데이터 분석(EDA)
+# 제조 공정 불량(Defect) 데이터 세트 상관관계 분석 및 탐색적 데이터 분석
 library(corrplot)
 library(caret)
 
